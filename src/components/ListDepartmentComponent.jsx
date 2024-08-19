@@ -38,7 +38,7 @@ const ListDepartmentComponent = () => {
   }
   return (
     <div className="container">
-      <h2 className="text-center">List of Departments</h2>
+      <h2 className="text-center">List of Department</h2>
       <Link to="/add-department" className="btn btn-primary mb-2">
         Add Department
       </Link>
